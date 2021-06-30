@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlrzhen
 - 👀 I’m interested in robotics and technology
-- 🌱 I’m currently learning web development with React
+- 🌱 I’m currently learning web development using React
 - 💞️ I’m looking to collaborate on hackathon-related and general projects
 - 📫 How to reach me ...
 
