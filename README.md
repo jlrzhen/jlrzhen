@@ -2,7 +2,9 @@
 - 👀 I’m interested in robotics and technology
 - 🌱 I’m currently learning web development using React
 - 💞️ I’m looking to collaborate on hackathon-related and general projects
+<!---
 - 📫 How to reach me ...
+--->
 
 <!---
 jlrzhen/jlrzhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
